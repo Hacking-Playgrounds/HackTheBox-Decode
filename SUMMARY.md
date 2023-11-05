@@ -33,6 +33,7 @@
 
 ## HTB Certifications
 
+* [Readme](htb-certifications/readme.md)
 * [HTB CERTIFIED PENETRATION TESTING SPECIALIST](htb-certifications/htb-certified-penetration-testing-specialist.md)
 * [HTB CERTIFIED BUG BOUNTY HUNTER](htb-certifications/htb-certified-bug-bounty-hunter.md)
 * [HTB CERTIFIED DEFENSIVE SECURITY ANALYST](htb-certifications/htb-certified-defensive-security-analyst.md)
